@@ -38,7 +38,7 @@ const projects = [
     icon: TrendingUp,
     color: "text-accent",
     bgColor: "bg-accent/10",
-    github: "https://github.com/yourusername/form-filling-agent",
+    github: "https://github.com/M-Saadullah/Excel-Processing-Module.git",
     demo: "https://demo.example.com/form-filling-agent",
   },
   // {
